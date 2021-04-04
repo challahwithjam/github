@@ -6,4 +6,4 @@ Imagine you have a coloring book and you're coloring a picture of a flower. You 
 
 This is what git allows you to do. With git, everything is recorded.
 
-Don't worry if this still doesn't make sesnse, we'll be taking this step by step to actually understand what git is and why we need it.
+Don't worry if this still doesn't make sense, we'll be taking this step by step to actually understand what git is and why we need it.
